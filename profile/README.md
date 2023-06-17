@@ -18,8 +18,8 @@
 <p align="left">
 <a href="https://www.nightowllabs.net" target="_blank"><img align="center" src="https://imgur.com/cI5oHUx.png" alt="3092847" height="40" width="40" /></a>
 <a href="mailto:support@nightowllabs.net" target="_blank"><img align="center" src="https://imgur.com/uMvAFRU.png" alt="3092847" height="40" width="40" /></a>
+<a href="https://github.com/Night-Owl-Labs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="scottgriv" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/company/nightowllabs/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="scottgrivner" height="30" width="40" /></a>
 <a href="https://twitter.com/Night_Owl_Labs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="scottgrivner" height="30" width="40" /></a>
-<a href="https://github.com/Night-Owl-Labs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="scottgriv" height="30" width="40" /></a>
 </p>
 
