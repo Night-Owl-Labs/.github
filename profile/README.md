@@ -6,7 +6,7 @@
 ## IS-A...
 - Software Development & Design company.
 - Formed in 2014 by [Scott Grivner](https://github.com/scottgriv).
-- based in North Eastern Pennsylvania (NEPA), USA.
+- Based in North Eastern Pennsylvania (NEPA), USA.
 
 ## HAS-A...
 - Goal to conduct research in order to develop open and closed source software on the latest technological trends.
@@ -25,4 +25,3 @@
 <a href="https://www.linkedin.com/company/nightowllabs/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="scottgrivner" height="30" width="40" /></a>
 <a href="https://twitter.com/Night_Owl_Labs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="scottgrivner" height="30" width="40" /></a>
 </p>
-
