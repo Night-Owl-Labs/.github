@@ -1,8 +1,11 @@
-# Night Owl Labs, LLC.
+![App Logo](./docs/images/company_banner.png)
+# Hello! Welcome to Night Owl Labs, LLC. 👋
+
+## [Night Owl Labs](https://www.nightowllabs.net)
 
 ## IS-A...
 - Software Development & Design company.
-- Formed in 2014 by Scott Grivner.
+- Formed in 2014 by [Scott Grivner](https://github.com/scottgriv).
 - based in North Eastern Pennsylvania (NEPA), USA.
 
 ## HAS-A...
