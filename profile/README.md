@@ -1,4 +1,4 @@
-![App Logo](./company_banner.png)
+![Company Logo](./company_banner.png)
 # Hello! Welcome to Night Owl Labs, LLC. 👋
 
 ## [Night Owl Labs](https://www.nightowllabs.net)
