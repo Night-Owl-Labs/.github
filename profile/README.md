@@ -1,4 +1,4 @@
-![Company Logo](https://i.imgur.com/i0rI37X.png)
+![Company Banner](https://i.imgur.com/i0rI37X.png)
 # Hello! Welcome to Night Owl Labs, LLC. 👋
 
 ## [Night Owl Labs](https://www.nightowllabs.net)
