@@ -1,4 +1,4 @@
-![Company Banner](https://raw.githubusercontent.com/Night-Owl-Labs/.github/profile/company_banner.png)
+![Company Banner](https://raw.githubusercontent.com/Night-Owl-Labs/.github/main/profile/company_banner.png)
 # Hello! Welcome to Night Owl Labs, LLC. 👋
 
 ## [Night Owl Labs](https://www.nightowllabs.net)
