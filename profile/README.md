@@ -4,9 +4,9 @@
 ## [Night Owl Labs](https://www.nightowllabs.net)
 
 ## IS-A...
-- Software Development & Design company.
+- Software Development, Design, & Education company.
 - Formed in 2014 by [Scott Grivner](https://github.com/scottgriv).
-- Based in North Eastern Pennsylvania (NEPA), USA.
+- Based in [North Eastern Pennsylvania (NEPA), USA](https://www.google.com/maps/search/Northeastern%20PA,%20USA).
 
 ## HAS-A...
 - Goal to conduct research in order to develop open and closed source software on the latest technological trends.
