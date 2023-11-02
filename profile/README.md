@@ -15,12 +15,11 @@ Whether you're in search of cutting-edge digital solutions, perceptive consultin
 Dive into our offerings, and let's build the future together.
 
 Don't hesitate to [Contact](https://www.nightowllabs.net/contact) us to discuss what **NOL** can do for you!
-
-<h2 align="center"><b>Feel free to reach out!</b></h2>
+<hr>
+<h2 align="center"><b>Connect with us</b></h2>
 <p align="center">
-    <a href="https://www.nightowllabs.net" target="_blank"><img align="center" src="https://imgur.com/cI5oHUx.png" alt="3092847" height="35" width="35" /></a>
-    <a href="mailto:info@nightowllabs.net" target="_blank"><img align="center" src="https://imgur.com/uMvAFRU.png" alt="3092847" height="32" width="32" /></a>
-    <a href="https://linkedin.com/in/scottgrivner/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="scottgrivner" height="30" width="40" /></a>
-    <a href="https://github.com/scottgriv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="scottgriv" height="30" width="40" /></a>
-    <a href="https://twitter.com/scottgrivner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="scottgrivner" height="30" width="40" /></a>
+    <a href="mailto:info@nightowllabs.net" target="_blank"><img align="center" src="https://imgur.com/uMvAFRU.png" alt="3092847" height="31" width="31" /></a>&nbsp; 
+    <a href="https://www.linkedin.com/company/nightowllabs" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="scottgrivner" height="30" width="40" /></a>
+    <a href="https://github.com/Night-Owl-Labs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="scottgriv" height="30" width="40" /></a>
+    <a href="https://twitter.com/night_owl_labs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="scottgrivner" height="30" width="40" /></a>
 </p>
