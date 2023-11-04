@@ -8,8 +8,6 @@ We pride ourselves on crafting state-of-the-art mobile apps, websites, and softw
 
 Our dedicated team of experts specializes in various domains: software development, architecture, infrastructure, project management, and UI/UX design. This ensures that every product we develop offers an intuitive and user-friendly experience. But our expertise doesn't end at product development. We're passionate about aiding businesses to thrive in today's digital realm. Through custom marketing and business strategies, we've aided countless clients in realizing their ambitions and enhancing their digital presence.
 
-Community is integral to our ethos. At **Night Owl Labs**, we actively contribute to the open-source sphere, sharing projects and tools on platforms like [GitHub](https://github.com/Night-Owl-Labs) to assist others in their tech endeavors. We also post content on [LinkedIn](https://www.linkedin.com/company/nightowllabs) and [X](https://twitter.com/night_owl_labs). Beyond being developers, we are educators and consultants dedicated to empowering others with knowledge and expertise.
-
 Whether you're in search of cutting-edge digital solutions, perceptive consulting, or enlightening content to elevate your venture, **Night Owl Labs** stands as your trusted ally.
 
 Dive into our offerings, and let's build the future together.
