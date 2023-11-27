@@ -17,12 +17,12 @@ Don't hesitate to [Contact](https://www.nightowllabs.net/contact) us to discuss 
 <h2 align="center"><b>Connect with us!</b></h2>
 <p align="center">
     <a href="mailto:info@nightowllabs.net" target="_blank"><img align="center" src="https://imgur.com/uMvAFRU.png" alt="3092847" height="31" width="31" /></a>&nbsp; 
-    <a href="https://www.linkedin.com/company/nightowllabs" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="scottgrivner" height="30" width="40" /></a>
-    <a href="https://github.com/Night-Owl-Labs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="scottgriv" height="30" width="40" /></a>
-    <a href="https://twitter.com/night_owl_labs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="scottgrivner" height="30" width="40" /></a>
+    <a href="https://www.linkedin.com/company/nightowllabs" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+    <a href="https://github.com/Night-Owl-Labs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></a>
+    <a href="https://twitter.com/night_owl_labs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
 </p>
 <div align="center">
     <a href="https://nightowllabs.net" target="_blank">
-        <img src="https://raw.githubusercontent.com/Night-Owl-Labs/.github/main/docs/images/nol_creation.png" width="100" height="100"/>
+        <img src="https://raw.githubusercontent.com/Night-Owl-Labs/.github/main/docs/images/footer.png" width="100" height="100"/>
     </a>
 </div>
