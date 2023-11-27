@@ -14,7 +14,7 @@ Dive into our offerings, and let's build the future together.
 
 Don't hesitate to [Contact](https://www.nightowllabs.net/contact) us to discuss what **NOL** can do for you!
 <hr>
-<h2 align="center"><b>Connect with Us!</b></h2>
+<h2 align="center"><b>Connect with us!</b></h2>
 <p align="center">
     <a href="mailto:info@nightowllabs.net" target="_blank"><img align="center" src="https://imgur.com/uMvAFRU.png" alt="3092847" height="31" width="31" /></a>&nbsp; 
     <a href="https://www.linkedin.com/company/nightowllabs" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="scottgrivner" height="30" width="40" /></a>
