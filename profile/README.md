@@ -21,7 +21,6 @@ Don't hesitate to [Contact](https://www.nightowllabs.net/contact) us to discuss 
     <a href="https://github.com/Night-Owl-Labs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="scottgriv" height="30" width="40" /></a>
     <a href="https://twitter.com/night_owl_labs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="scottgrivner" height="30" width="40" /></a>
 </p>
-<hr>
 <div align="center">
     <a href="https://github.com/Night-Owl-Labs" target="_blank">
         <img src="https://raw.githubusercontent.com/Night-Owl-Labs/.github/main/docs/images/nol_creation.png" width="100" height="100"/>
