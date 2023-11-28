@@ -1,6 +1,8 @@
-[![Company Banner](https://raw.githubusercontent.com/Night-Owl-Labs/.github/main/docs/images/banner_large.png)](https://nightowllabs.net)
+<!-- Begin README -->
 
-# Welcome to Night Owl Labs! 👋
+[![Banner Large](https://raw.githubusercontent.com/Night-Owl-Labs/.github/main/docs/images/banner_large.png)](https://nightowllabs.net)
+
+<h1 align="center">🌙🦉 Welcome to Night Owl Labs! 👋</h1>
 
 Since our inception in 2014, **Night Owl Labs** has been at the forefront of digital innovation. We publish our own software [Products](https://nightowllabs.net/products) and also offer a wide range of consulting [Services](https://nightowllabs.net/services).
 
