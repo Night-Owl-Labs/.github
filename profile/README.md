@@ -24,6 +24,12 @@ Don't hesitate to [Contact](https://www.nightowllabs.net/contact) us to discuss 
     <a href="https://twitter.com/night_owl_labs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
 </p>
 <div align="center">
+    <a href="https://prgoptimized.com" target="_blank">
+        <img src="https://github.com/scottgriv/PRG-Personal-Repository-Guidelines/raw/main/docs/images/prg_optimized.png" alt="Collection" width="138" height="51" />
+    </a>
+</div>
+<br>
+<div align="center">
     <a href="https://nightowllabs.net" target="_blank">
         <img src="https://raw.githubusercontent.com/Night-Owl-Labs/.github/main/docs/images/footer.png" width="100" height="100"/>
     </a>
