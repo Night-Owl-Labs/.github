@@ -43,7 +43,7 @@ Don't hesitate to [Contact](https://www.nightowllabs.net/contact) us to discuss 
 <hr>
 <div align="center">
     <a href="https://nightowllabs.net" target="_blank">
-        <img src="https://raw.githubusercontent.com/Night-Owl-Labs/.github/main/docs/images/footer.png" width="100" height="100"/>
+        <img src="./docs/images/footer.png" width="100" height="100"/>
     </a>
 </div>
 

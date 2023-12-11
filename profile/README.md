@@ -16,22 +16,34 @@ Dive into our offerings, and let's build the future together.
 
 Don't hesitate to [Contact](https://www.nightowllabs.net/contact) us to discuss what **NOL** can do for you!
 <hr>
-<h2 align="center"><b>Connect with us!</b></h2>
+<h2 align="center"><b>Check out our projects!</b></h2>
+<div align="center">
+    <a href="https://github.com/scottgriv/PRG-Personal-Repository-Guidelines" target="_blank"><img src="../docs/images/prg-banner_small-rounded.png" alt="PRG Banner" width="400" height="128"/></a>
+    <a href="https://github.com/scottgriv/Post.e" target="_blank"><img src="../docs/images/post-e-banner_small-rounded.png" alt="Post.e Banner" width="400" height="128"/></a>
+    <a href="https://github.com/scottgriv/River-Charts" target="_blank"><img src="../docs/images/river-charts-banner_small-rounded.png" alt="River Charts Banner" width="400" height="128"/></a>
+    <a href="https://github.com/scottgriv/Palm-Tree" target="_blank"><img src="../docs/images/palm-tree-banner_small-rounded.png"alt="Palm Tree Banner" width="400" height="128"/></a>
+    <a href="https://reciperesizer.com" target="_blank"><img src="../docs/images/recipe-resizer-banner_small-rounded.png" alt="Recipe Resizer Banner" width="400" height="128"/></a>
+    <a href="https://beeheard.com" target="_blank"><img src="../docs/images/bee-heard-banner_small-rounded.png" alt="Bee Heard Banner" width="400" height="128"/></a>
+</div>
+<hr>
+<h2 align="center"><b>Check out our other content!</b></h2>
 <p align="center">
-    <a href="mailto:info@nightowllabs.net" target="_blank"><img align="center" src="https://imgur.com/uMvAFRU.png" alt="3092847" height="31" width="31" /></a>&nbsp; 
+    <a href="mailto:info@nightowllabs.net" target="_blank"><img align="center" src="https://imgur.com/uMvAFRU.png" alt="3092847" height="30" width="30" /></a>&nbsp; 
     <a href="https://www.linkedin.com/company/nightowllabs" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
     <a href="https://github.com/Night-Owl-Labs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></a>
     <a href="https://twitter.com/night_owl_labs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
 </p>
-<div align="center">
-    <a href="https://prgoptimized.com" target="_blank">
-        <img src="https://github.com/scottgriv/PRG-Personal-Repository-Guidelines/raw/main/docs/images/prg_optimized.png" alt="Collection" width="138" height="51" />
-    </a>
-</div>
-<br>
+<h4 align="center"><b>Please consider supporting us if our Software has been beneficial to you!</b></h3>
+<p align="center">
+<a href="https://www.buymeacoffee.com/scottgriv"> <img align="center" src="../docs/images/bmac-orange_button.png" height="53" width="188" alt="https://www.buymeacoffee.com/scottgriv" /></a>
+</p>
+<p align="center">
+    <a href="https://prgportfolio.com" target="_blank"><img src="https://github.com/scottgriv/PRG-Personal-Repository-Guidelines/raw/main/docs/images/prg_optimized.png" alt="Optimized" width="138" height="51" /></a>
+</p>
+<hr>
 <div align="center">
     <a href="https://nightowllabs.net" target="_blank">
-        <img src="https://raw.githubusercontent.com/Night-Owl-Labs/.github/main/docs/images/footer.png" width="100" height="100"/>
+        <img src="../docs/images/footer.png" width="100" height="100"/>
     </a>
 </div>
 
