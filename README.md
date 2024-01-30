@@ -33,10 +33,6 @@ Don't hesitate to [Contact](https://www.nightowllabs.io/contact) us to discuss w
     <a href="https://github.com/Night-Owl-Labs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></a>
     <a href="https://twitter.com/night_owl_labs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
 </p>
-<h4 align="center"><b>Please consider supporting us if our software has been beneficial to you!</b></h3>
-<p align="center">
-<a href="https://www.buymeacoffee.com/scottgriv"> <img align="center" src="https://raw.githubusercontent.com/Night-Owl-Labs/.github/main/docs/images/supporting/bmac-orange_button.png" height="53" width="188" alt="https://www.buymeacoffee.com/scottgriv" /></a>
-</p>
 <p align="center">
     <a href="https://prgportfolio.com" target="_blank"><img src="https://github.com/scottgriv/PRG-Personal-Repository-Guidelines/raw/main/docs/images/prg_optimized.png" alt="Optimized" width="138" height="51" /></a>
 </p>
