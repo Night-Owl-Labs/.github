@@ -24,7 +24,6 @@ Don't hesitate to [Contact](https://www.nightowllabs.io/contact) us to discuss w
     <a href="https://github.com/scottgriv/Post.e" target="_blank"><img src="https://raw.githubusercontent.com/Night-Owl-Labs/.github/main/docs/images/banners/post-e-banner_small-rounded.png" alt="Post.e Banner" width="400" height="128"/></a>
     <a href="https://github.com/scottgriv/River-Charts" target="_blank"><img src="https://raw.githubusercontent.com/Night-Owl-Labs/.github/main/docs/images/banners/river-charts-banner_small-rounded.png" alt="River Charts Banner" width="400" height="128"/></a>
     <a href="https://github.com/scottgriv/Palm-Tree" target="_blank"><img src="https://raw.githubusercontent.com/Night-Owl-Labs/.github/main/docs/images/banners/palm-tree-banner_small-rounded.png"alt="Palm Tree Banner" width="400" height="128"/></a>
-    <a href="https://github.com/scottgriv/Business-Website" target="_blank"><img src="https://raw.githubusercontent.com/Night-Owl-Labs/.github/main/docs/images/banners/nol-banner_small-rounded.png"alt="Business Website Banner" width="400" height="128"/></a>
 </div>
 <hr>
 <h2 align="center"><b>Check out our other content!</b></h2>
@@ -34,15 +33,15 @@ Don't hesitate to [Contact](https://www.nightowllabs.io/contact) us to discuss w
     <a href="https://github.com/Night-Owl-Labs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></a>
     <a href="https://twitter.com/night_owl_labs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
 </p>
+<h3 align="center"><b>Discover our team’s innovative categorization system:</b></h3>
+<p align="center">
+    <a href="https://prgportfolio.com" target="_blank"><img src="https://github.com/scottgriv/PRG-Personal-Repository-Guidelines/raw/main/docs/images/prg_optimized.png" alt="Optimized" width="138" height="51" /></a>
+</p>
 <h3 align="center"><b>Explore our full range of products and services on our website:</b></h3>
 <div align="center">
     <a href="https://nightowllabs.io" target="_blank">
         <img src="https://raw.githubusercontent.com/Night-Owl-Labs/.github/main/docs/images/footer.png" width="100" height="100"/>
     </a>
 </div>
-<h3 align="center"><b>Discover our team’s innovative categorization system:</b></h3>
-<p align="center">
-    <a href="https://prgportfolio.com" target="_blank"><img src="https://github.com/scottgriv/PRG-Personal-Repository-Guidelines/raw/main/docs/images/prg_optimized.png" alt="Optimized" width="138" height="51" /></a>
-</p>
 
 <!-- End README -->
