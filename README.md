@@ -24,6 +24,8 @@ Don't hesitate to [Contact](https://www.nightowllabs.io/contact) us to discuss w
     <a href="https://github.com/scottgriv/Post.e" target="_blank"><img src="https://raw.githubusercontent.com/Night-Owl-Labs/.github/main/docs/images/banners/post-e-banner_small-rounded.png" alt="Post.e Banner" width="400" height="128"/></a>
     <a href="https://github.com/scottgriv/River-Charts" target="_blank"><img src="https://raw.githubusercontent.com/Night-Owl-Labs/.github/main/docs/images/banners/river-charts-banner_small-rounded.png" alt="River Charts Banner" width="400" height="128"/></a>
     <a href="https://github.com/scottgriv/Palm-Tree" target="_blank"><img src="https://raw.githubusercontent.com/Night-Owl-Labs/.github/main/docs/images/banners/palm-tree-banner_small-rounded.png"alt="Palm Tree Banner" width="400" height="128"/></a>
+    <a href="https://nightowllabs.io/projects/" target="_blank"><img src="https://raw.githubusercontent.com/Night-Owl-Labs/.github/main/docs/images/banner_small_cs-rounded"alt="Coming Soon" width="400" height="128"/></a>
+    <a href="https://nightowllabs.io/projects/" target="_blank"><img src="https://raw.githubusercontent.com/Night-Owl-Labs/.github/main/docs/images/banner_small_cs-rounded"alt="Coming Soon" width="400" height="128"/></a>
 </div>
 <hr>
 <h2 align="center"><b>Check out our other content!</b></h2>
