@@ -2,9 +2,13 @@
 
 [![Banner Large](https://raw.githubusercontent.com/Night-Owl-Labs/.github/main/docs/images/banner_large.png)](https://nightowllabs.io)
 
-<h1 align="center">🌙🦉🧪 Welcome to Night Owl Labs! 👋</h1>
+<h1 align="center">🌙 🦉 Welcome to Night Owl Labs! 👋</h1>
 
-Since our inception in 2014, **Night Owl Labs** has been at the forefront of digital innovation. We publish our own software [Products](https://nightowllabs.io/products) and also offer a wide range of consulting [Services](https://nightowllabs.io/services).
+Since our inception in 2014, **Night Owl Labs** has been at the forefront of digital innovation. 
+
+- 📱 We publish our own Software [Products](https://nightowllabs.io/products).
+- 👨🏻‍💻 We offer a wide range of Consulting [Services](https://nightowllabs.io/services).
+- 🎨 We've worked on a large number of Development, Design, and Business [Projects](https://nightowllabs.io/projects).
 
 We pride ourselves on crafting state-of-the-art mobile apps, websites, and software solutions. Our creations are not only functional but also aesthetically pleasing. At **Night Owl Labs**, we believe that the future of software lies in sound design and usability, coupled with traditional pillars of reliability, accessibility, and scalability.
 
@@ -12,7 +16,7 @@ Our dedicated team of experts specializes in various domains: software developme
 
 Whether you're in search of cutting-edge digital solutions, perceptive consulting, or enlightening content to elevate your venture, **Night Owl Labs** stands as your trusted ally.
 
-Dive into our offerings, and let's build the future together.
+*Dive into our offerings, and let's build the future together.*
 
 Don't hesitate to [Contact](https://www.nightowllabs.io/contact) us to discuss what **NOL** can do for you!
 <hr>
