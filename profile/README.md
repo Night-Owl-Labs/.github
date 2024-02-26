@@ -2,7 +2,7 @@
 
 [![Banner Large](https://raw.githubusercontent.com/Night-Owl-Labs/.github/main/docs/images/banner_large.png)](https://nightowllabs.io)
 
-<h1 align="center">🌙 🦉 Welcome to Night Owl Labs! 👋</h1>
+# 🌙 🦉 Welcome to Night Owl Labs! 👋 ![](https://komarev.com/ghpvc/?username=night-owl-labs&color=140F3E&style=flat-square&label=Profile+Views)
 
 Since our inception in 2014, **Night Owl Labs** has been at the forefront of digital innovation. 
 
@@ -34,10 +34,10 @@ Don't hesitate to [Contact](https://www.nightowllabs.io/contact) us to discuss w
 <hr>
 <h2 align="center"><b>Check out our other content!</b></h2>
 <p align="center">
-    <a href="mailto:info@nightowllabs.io" target="_blank"><img align="center" src="https://imgur.com/uMvAFRU.png" alt="3092847" height="30" width="30" /></a>&nbsp; 
-    <a href="https://www.linkedin.com/company/nightowllabs" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-    <a href="https://github.com/Night-Owl-Labs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></a>
-    <a href="https://twitter.com/night_owl_labs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
+    <a href="https://github.com/scottgriv" target="_blank"><img align="center" src="../docs/images/socials/github.svg" alt="GitHub" height="40" width="40" /></a>&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/company/nightowllabs/" target="_blank"><img align="center" src="../docs/images/socials//linkedin.svg" alt="LinkedIn" height="40" width="40" /></a>&nbsp;&nbsp;
+    <a href="https://x.com/night_owl_labs" target="blank"><img align="center" src="../docs/images/socials/x.png" alt="X" height="43" width="43" /></a>&nbsp;&nbsp;
+    <a href="mailto:info@nightowllabs.io" target="_blank"><img align="center" src="../docs/images/socials/gmail.png" alt="Gmail" height="40" width="40" /></a>&nbsp;&nbsp;
 </p>
 <h3 align="center"><b>Discover our team’s innovative categorization system:</b></h3>
 <p align="center">
