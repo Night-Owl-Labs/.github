@@ -7,7 +7,7 @@
 Since our inception in 2014, **Night Owl Labs** has been at the forefront of digital innovation. 
 
 - 📱 We publish our own Software [Products](https://nightowllabs.io/products).
-- 👨🏻‍💻 We offer a wide range of Consulting [Services](https://nightowllabs.io/services).
+- 👨🏻‍💻 We offer a wide range of Software and Business Consulting [Services](https://nightowllabs.io/services).
 - 🎨 We've worked on a large number of Development, Design, and Business [Projects](https://nightowllabs.io/projects).
 
 We pride ourselves on crafting state-of-the-art mobile apps, websites, and software solutions. Our creations are not only functional but also aesthetically pleasing. At **Night Owl Labs**, we believe that the future of software lies in sound design and usability, coupled with traditional pillars of reliability, accessibility, and scalability.
