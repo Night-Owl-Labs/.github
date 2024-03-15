@@ -33,6 +33,18 @@ Don't hesitate to [Contact](https://www.nightowllabs.io/contact) us to discuss w
     <a href="https://github.com/scottgriv/Business-Website" target="_blank"><img src="https://raw.githubusercontent.com/Night-Owl-Labs/.github/main/docs/images/banners/nol-banner_small-rounded.png"alt="Business Website Banner" width="400" height="128"/></a>
     <a href="https://github.com/scottgriv/Portfolio-Website" target="_blank"><img src="https://raw.githubusercontent.com/Night-Owl-Labs/.github/main/docs/images/banners/scottgriv-banner_small-rounded.png"alt="Portfolio Website Banner" width="400" height="128"/></a>
 </div>
+<h3 align="center"><b>Handy web apps we built:</b></h3>
+<div align="center">
+    <a href="https://github.com/scottgriv/CREDITS-Generator" target="_blank"><img src="./docs/images/icons/icon_1-rounded.png"alt="CREDITS Generator Icon" width="60" height="60"/></a>
+    &nbsp;
+    <a href="https://github.com/scottgriv/Resolution-Scale-Calculator" target="_blank"><img src="./docs/images/icons/icon_2-rounded.png"alt="Resolution Scale Calculator Icon" width="60" height="60"/></a>
+    &nbsp;
+    <a href="https://github.com/scottgriv/GitHub-User-Info" target="_blank"><img src="./docs/images/icons/icon_3-rounded.png"alt="GitHub User Info Icon" width="60" height="60"/></a>
+    &nbsp;
+    <a href="https://github.com/scottgriv/Binary-Converter" target="_blank"><img src="./docs/images/icons/icon_4-rounded.png"alt="Binary Converter Icon" width="60" height="60"/></a>
+    &nbsp;
+    <a href="https://github.com/scottgriv/PWA-Demo-App" target="_blank"><img src="./docs/images/icons/icon_5-rounded.png"alt="PWA Demo Application" width="60" height="60"/></a>
+</div>
 <hr>
 <h2 align="center"><b>Check out our other content and socials!</b></h2>
 <p align="center">
