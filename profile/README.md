@@ -2,7 +2,8 @@
 
 [![Banner Large](https://raw.githubusercontent.com/Night-Owl-Labs/.github/main/docs/images/banner_large.png)](https://nightowllabs.io)
 
-# 🌙 🦉 Welcome to Night Owl Labs! 👋 ![](https://komarev.com/ghpvc/?username=night-owl-labs&color=140F3E&style=flat-square&label=Profile+Views)
+<h1 align="left">🌙 🦉 Welcome to Night Owl Labs! <img src="https://raw.githubusercontent.com/Night-Owl-Labs/.github/main/docs/images/wave.gif" width="25px">
+<img src="https://komarev.com/ghpvc/?username=night-owl-labs&color=140F3E&style=flat-square&label=Profile+Views"></h1>
 
 Since our inception in 2014, **Night Owl Labs** has been at the forefront of digital innovation. 
 
