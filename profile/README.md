@@ -16,9 +16,10 @@ Our dedicated team of experts specializes in various domains: software developme
 
 Whether you're in search of cutting-edge digital solutions, perceptive consulting, or enlightening content to elevate your venture, **Night Owl Labs** stands as your trusted ally.
 
-*Dive into our offerings, and let's build the future together.*
+[*Dive into our offerings, and let's build the future together.*](https://nightowllabs.io) <br>
 
 Don't hesitate to [Contact](https://www.nightowllabs.io/contact) us to discuss what **NOL** can do for you!
+
 <hr>
 <h2 align="center"><b>Check out our products and projects!</b></h2>
 <div align="center">
@@ -39,11 +40,9 @@ Don't hesitate to [Contact](https://www.nightowllabs.io/contact) us to discuss w
     <a href="https://x.com/night_owl_labs" target="blank"><img align="center" src="https://raw.githubusercontent.com/Night-Owl-Labs/.github/main/docs/images/socials/x.png" alt="X" height="43" width="43" /></a>&nbsp;&nbsp;
     <a href="mailto:info@nightowllabs.io" target="_blank"><img align="center" src="https://raw.githubusercontent.com/Night-Owl-Labs/.github/main/docs/images/socials/gmail.png" alt="Gmail" height="40" width="40" /></a>&nbsp;&nbsp;
 </p>
-<h3 align="center"><b>Discover our team’s innovative categorization system:</b></h3>
 <p align="center">
     <a href="https://prgportfolio.com" target="_blank"><img src="https://github.com/scottgriv/PRG-Personal-Repository-Guidelines/raw/main/docs/images/prg_optimized.png" alt="Optimized" width="138" height="51" /></a>
 </p>
-<h3 align="center"><b>Explore our full range of products and services on our website:</b></h3>
 <div align="center">
     <a href="https://nightowllabs.io" target="_blank">
         <img src="https://raw.githubusercontent.com/Night-Owl-Labs/.github/main/docs/images/footer.png" width="100" height="100"/>
