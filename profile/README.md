@@ -39,7 +39,7 @@ Don't hesitate to [Contact](https://www.nightowllabs.io/contact) us to discuss w
     <a href="https://www.linkedin.com/company/nightowllabs/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/Night-Owl-Labs/.github/main/docs/images/socials/linkedin.svg" alt="LinkedIn" height="40" width="40" /></a>&nbsp;&nbsp;
     <a href="https://x.com/night_owl_labs" target="blank"><img align="center" src="https://raw.githubusercontent.com/Night-Owl-Labs/.github/main/docs/images/socials/x.png" alt="X" height="43" width="43" /></a>&nbsp;&nbsp;
     <a href="https://instagram.com/NightOwlLabsLLC" target="blank"><img align="center" src="https://raw.githubusercontent.com/Night-Owl-Labs/.github/main/docs/images/socials/instagram.svg" alt="Instagram" height="43" width="43" /></a>&nbsp;&nbsp;
-    <a href="https://marketplace.visualstudio.com/publishers/night-owl-labs" target="blank"><img align="center" src="https://raw.githubusercontent.com/Night-Owl-Labs/.github/main/docs/images/socials/vscode.svg" alt="VSCode Marketplace" height="40" width="40" /></a>&nbsp;&nbsp;
+    <a href="https://marketplace.visualstudio.com/publishers/night-owl-labs" target="blank"><img align="center" src="https://raw.githubusercontent.com/Night-Owl-Labs/.github/main/docs/images/socials/vscode.svg" alt="Visual Studio Marketplace" height="40" width="40" /></a>&nbsp;&nbsp;
     <a href="mailto:info@nightowllabs.io" target="_blank"><img align="center" src="https://raw.githubusercontent.com/Night-Owl-Labs/.github/main/docs/images/socials/gmail.png" alt="Gmail" height="40" width="40" /></a>&nbsp;&nbsp;
 </p>
 <p align="center">
