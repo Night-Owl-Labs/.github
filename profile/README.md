@@ -5,7 +5,7 @@
 <h1 align="left">🌙 🦉 Welcome to Night Owl Labs! <img src="https://raw.githubusercontent.com/Night-Owl-Labs/.github/main/docs/images/wave.gif" width="25px">
 <img src="https://komarev.com/ghpvc/?username=night-owl-labs&color=140F3E&style=flat-square&label=Profile+Views"></h1>
 
-Since our inception in 2014, **Night Owl Labs** has been at the forefront of digital innovation. 
+Since our inception in 2014, **Night Owl Labs** has been at the forefront of digital innovation.
 
 - 📱 We publish our own Software [Products](https://nightowllabs.io/products).
 - 👨🏻‍💻 We offer a wide range of Software and Business Consulting [Services](https://nightowllabs.io/services).
@@ -17,7 +17,7 @@ Our dedicated team of experts specializes in various domains: software developme
 
 Whether you're in search of cutting-edge digital solutions, perceptive consulting, or enlightening content to elevate your venture, **Night Owl Labs** stands as your trusted ally.
 
-[*Dive into our offerings, and let's build the future together.*](https://nightowllabs.io) <br>
+[_Dive into our offerings, and let's build the future together._](https://nightowllabs.io) <br>
 
 Don't hesitate to [Contact](https://www.nightowllabs.io/contact) us to discuss what **NOL** can do for you!
 
