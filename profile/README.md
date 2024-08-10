@@ -36,8 +36,8 @@ Don't hesitate to [Contact](https://www.nightowllabs.io/contact) us to discuss w
 <hr>
 <h2 align="center"><b>Check out our Software Principles Series!</b></h2>
 <div align="center">
-    <a href="https://github.com/Night-Owl-Labs/Software-Principles-Series" target="_blank">
-        <img src="https://raw.githubusercontent.com/Night-Owl-Labs/.github/main/docs/images/series.png" width="500" />
+    <a href="https://github.com/Night-Owl-Labs/Software-Principles-Collection" target="_blank">
+        <img src="https://raw.githubusercontent.com/Night-Owl-Labs/.github/main/docs/images/banner_collection-rounded.png" width="500" />
     </a>
 </div>
 <hr>
