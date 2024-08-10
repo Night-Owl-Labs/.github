@@ -34,7 +34,7 @@ Don't hesitate to [Contact](https://www.nightowllabs.io/contact) us to discuss w
     <a href="https://github.com/scottgriv/Launch-Portals" target="_blank"><img src="https://raw.githubusercontent.com/Night-Owl-Labs/.github/main/docs/images/banners/launch-portals-banner_small-rounded.png"alt="Launch Portals Banner" width="400" height="128"/></a>
 </div>
 <hr>
-<h2 align="center"><b>Check out our Software Principles Series!</b></h2>
+<h2 align="center"><b>Check out our Software Principles Collection!</b></h2>
 <div align="center">
     <a href="https://github.com/Night-Owl-Labs/Software-Principles-Collection" target="_blank">
         <img src="https://raw.githubusercontent.com/Night-Owl-Labs/.github/main/docs/images/banner_social-rounded.png" width="500" />
