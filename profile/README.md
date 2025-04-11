@@ -2,7 +2,7 @@
 
 [![Banner Large](https://raw.githubusercontent.com/Night-Owl-Labs/.github/main/docs/images/banner_large.png)](https://nightowllabs.io)
 
-<h1 align="left">🌙 🦉 Welcome to Night Owl Labs! <img src="https://raw.githubusercontent.com/Night-Owl-Labs/.github/main/docs/images/wave.gif" width="25px">
+<h1 align="left">🌙 🦉 Welcome to Night Owl Labs! <img src="https://raw.githubusercontent.com/Night-Owl-Labs/.github/main/docs/images/wave.gif" width="25px"><br>
 
 At **Night Owl Labs**, we build the tools we wish existed — and help others bring bold ideas to life.
 
