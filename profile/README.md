@@ -17,7 +17,7 @@ Our team spans dev, architecture, project management, and UX — so your product
 
 ---
 
-## Things we've worked on recently
+## 🔧 Things we've worked on recently
 
 - A [smart recipe manager](https://reciperesizer.com) app for iOS that scales ingredients, scales units, and keeps everything in one place
 - Enterprise dashboards that drive $100M in quarterly revenue  
@@ -25,9 +25,9 @@ Our team spans dev, architecture, project management, and UX — so your product
 
 ---
 
-## Want to build something thoughtful and scalable?
+## 💡 Got an idea worth building?
 
-We’d love to hear from you.
+We’d love to hear about it.
 
 👉 [Visit our website](https://nightowllabs.io)  
 ✉️ [Get in touch](mailto:info@nightowllabs.io)
