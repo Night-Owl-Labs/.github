@@ -19,7 +19,7 @@ Our team spans dev, architecture, project management, and UX — so your product
 
 ## Things we've worked on recently
 
-- A smart recipe manager app for iOS that scales ingredients, scales units, and keeps everything in one place
+- A [smart recipe manager](https://reciperesizer.com) app for iOS that scales ingredients, scales units, and keeps everything in one place
 - Enterprise dashboards that drive $100M in quarterly revenue  
 - Seamless systems integrations across global platforms  
 
@@ -29,7 +29,7 @@ Our team spans dev, architecture, project management, and UX — so your product
 
 We’d love to hear from you.
 
-👉 [Visit our website](https://nightowllabs.io/products)  
+👉 [Visit our website](https://nightowllabs.io)  
 ✉️ [Get in touch](mailto:info@nightowllabs.io)
 
 <hr>
