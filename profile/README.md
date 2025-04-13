@@ -6,8 +6,9 @@
 
 At **Night Owl Labs**, we build the tools we wish existed — and help others bring bold ideas to life.
 
-## 📱 Product Makers  
-From idea to App Store, we craft mobile apps, websites, and software that blend usability with beauty.
+## 📱 Product Makers
+
+From concept to launch, we build intuitive apps, websites, and software where usability meets design tailored to each product’s identity.
 
 ## 👨🏻‍💻 Consultants & Collaborators  
 We help businesses big and small solve complex tech challenges, streamline operations, and launch meaningful digital experiences.
