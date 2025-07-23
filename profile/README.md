@@ -21,7 +21,8 @@ Our team spans dev, architecture, project management, and UX — so your product
 ## 🔧 Things we've worked on recently
 
 - A [smart recipe manager](https://reciperesizer.com) app for iOS that scales ingredients, scales units, and keeps everything in one place
-- Enterprise dashboards that drive $100M in quarterly revenue  
+- A [customer relationship management (CRM)](https://github.com/scottgriv/Palm-Tree) system built for a small electronics repair and sales business
+- An [API driven data extraction tool](https://github.com/scottgriv/javascript-api_data_fisher) that outputs spreadsheet-ready insights for a telecommunications company
 - Seamless systems integrations across global platforms  
 
 ---
