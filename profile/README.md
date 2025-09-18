@@ -21,10 +21,10 @@ Our team spans dev, architecture, project management, and UI/UX — so your prod
 ## 🔧 Things we've worked on recently
 
 - A [smart recipe manager](https://apps.apple.com/app/id/6450848695) app for iOS that scales ingredients, scales units, and keeps everything in one place
-- A [handy VSCode extension](https://marketplace.visualstudio.com/items?itemName=Night-Owl-Labs.Bee-Heard) that allows you to record audio files as you code
+- A [handy VSCode extension](https://marketplace.visualstudio.com/items?itemName=Night-Owl-Labs.Bee-Heard) that allows you to record audio files while you code
+- A [collection of software architecture](https://github.com/Night-Owl-Labs/Software-Principles-Collection) concepts and principles
 - A [customer relationship management (CRM)](https://github.com/scottgriv/Palm-Tree) system built for a small electronics repair and sales business
 - An [API-driven data extraction tool](https://github.com/Night-Owl-Labs/Data-Fisher) that outputs spreadsheet-ready insights for a telecommunications company
-- A [collection of software architecture](https://github.com/Night-Owl-Labs/Software-Principles-Collection) concepts and principles
 
 ---
 
@@ -32,9 +32,9 @@ Our team spans dev, architecture, project management, and UI/UX — so your prod
 
 We’d love to hear about it.
 
-👉 [Visit our website](https://nightowllabs.io)  
-💬 [Check out our blog](https://medium.com/@nightowllabs)
-✉️ [Get in touch](mailto:info@nightowllabs.io)
+👉 [Visit our website](https://nightowllabs.io) <br />
+💬 [Check out our blog](https://medium.com/@nightowllabs) <br />
+✉️ [Get in touch](mailto:info@nightowllabs.io) <br />
 
 <hr>
 <h2 align="center"><b>Projects</b></h2>
