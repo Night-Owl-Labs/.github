@@ -14,16 +14,17 @@ From concept to launch, we build intuitive apps, websites, and software where us
 We help businesses big and small solve complex tech challenges, streamline operations, and launch meaningful digital experiences.
 
 ## 🎨 Design-First Development  
-Our team spans dev, architecture, project management, and UX — so your product not only works well, but *feels* right.
+Our team spans dev, architecture, project management, and UI/UX — so your product not only works well, but *feels* right.
 
 ---
 
 ## 🔧 Things we've worked on recently
 
-- A [smart recipe manager](https://reciperesizer.com) app for iOS that scales ingredients, scales units, and keeps everything in one place
+- A [smart recipe manager](https://apps.apple.com/app/id/6450848695) app for iOS that scales ingredients, scales units, and keeps everything in one place
+- A [handy VSCode extension](https://marketplace.visualstudio.com/items?itemName=Night-Owl-Labs.Bee-Heard) that allows you to record audio files as you code
 - A [customer relationship management (CRM)](https://github.com/scottgriv/Palm-Tree) system built for a small electronics repair and sales business
-- An [API driven data extraction tool](https://github.com/Night-Owl-Labs/Data-Fisher) that outputs spreadsheet-ready insights for a telecommunications company
-- Seamless systems integrations across global platforms  
+- An [API-driven data extraction tool](https://github.com/Night-Owl-Labs/Data-Fisher) that outputs spreadsheet-ready insights for a telecommunications company
+- A [collection of software architecture](https://github.com/Night-Owl-Labs/Software-Principles-Collection) concepts and principles
 
 ---
 
@@ -32,6 +33,7 @@ Our team spans dev, architecture, project management, and UX — so your product
 We’d love to hear about it.
 
 👉 [Visit our website](https://nightowllabs.io)  
+💬 [Check out our blog](https://medium.com/@nightowllabs)
 ✉️ [Get in touch](mailto:info@nightowllabs.io)
 
 <hr>
@@ -52,6 +54,7 @@ We’d love to hear about it.
     <a href="https://www.linkedin.com/company/nightowllabs/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/Night-Owl-Labs/.github/main/docs/images/socials/linkedin.svg" alt="LinkedIn" height="40" width="40" /></a>&nbsp;&nbsp;
     <a href="https://x.com/night_owl_labs" target="blank"><img align="center" src="https://raw.githubusercontent.com/Night-Owl-Labs/.github/main/docs/images/socials/x.png" alt="X" height="43" width="43" /></a>&nbsp;&nbsp;
     <a href="https://instagram.com/Night.Owl.Labs" target="blank"><img align="center" src="https://raw.githubusercontent.com/Night-Owl-Labs/.github/main/docs/images/socials/instagram.svg" alt="Instagram" height="43" width="43" /></a>&nbsp;&nbsp;
+    <a href="https://medium.com/@nightowllabs" target="_blank"><img align="center" src="https://raw.githubusercontent.com/Night-Owl-Labs/.github/main/docs/images/socials/medium.svg" alt="Medium" height="40" width="40" /></a>&nbsp;&nbsp;
     <a href="https://marketplace.visualstudio.com/publishers/night-owl-labs" target="blank"><img align="center" src="https://raw.githubusercontent.com/Night-Owl-Labs/.github/main/docs/images/socials/vscode.svg" alt="Visual Studio Marketplace" height="40" width="40" /></a>&nbsp;&nbsp;
     <a href="mailto:info@nightowllabs.io" target="_blank"><img align="center" src="https://raw.githubusercontent.com/Night-Owl-Labs/.github/main/docs/images/socials/gmail.png" alt="Gmail" height="40" width="40" /></a>&nbsp;&nbsp;
 </p>
