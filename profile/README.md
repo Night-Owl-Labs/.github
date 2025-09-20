@@ -37,7 +37,7 @@ We’d love to hear about it.
 ✉️ [Get in touch](mailto:info@nightowllabs.io) <br />
 
 <p align="center">
-    <a href="https://apps.apple.com/us/app/recipe-resizer-manage-recipes/id6450848695" target="_blank"><img align="center" src="https://raw.githubusercontent.com/Night-Owl-Labs/.github/main/docs/images/recipe_resizer_ad-rounded.png" alt="Recipe Resizer" height="315" width="600" /></a>
+    <a href="https://apps.apple.com/us/app/recipe-resizer-manage-recipes/id6450848695" target="_blank"><img align="center" src="https://raw.githubusercontent.com/Night-Owl-Labs/.github/main/docs/images/banners/recipe_resizer_ad-rounded.png" alt="Recipe Resizer" height="315" width="600" /></a>
 </p>
 
 <hr>
