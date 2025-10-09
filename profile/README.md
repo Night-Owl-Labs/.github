@@ -20,10 +20,10 @@ Our team spans dev, architecture, project management, and UI/UX — so your prod
 
 ## 🔧 Things we've worked on recently
 
-- A [smart recipe manager](https://apps.apple.com/app/id/6450848695) app for iOS that scales ingredients, scales units, and keeps everything in one place
-- A [handy VSCode extension](https://marketplace.visualstudio.com/items?itemName=Night-Owl-Labs.Bee-Heard) that allows you to record audio files while you code
-- A [collection of software architecture](https://github.com/Night-Owl-Labs/Software-Principles-Collection) concepts and principles
-- A [customer relationship management (CRM)](https://github.com/scottgriv/Palm-Tree) system built for a small electronics repair and sales business
+- A [smart recipe manager](https://apps.apple.com/app/id/6450848695) app for iOS that scales ingredients and units, keeping everything in one place.
+- A [handy VSCode extension](https://marketplace.visualstudio.com/items?itemName=Night-Owl-Labs.Bee-Heard) that allows you to record audio notes while you code
+- A [collection of software-architecture](https://github.com/Night-Owl-Labs/Software-Principles-Collection) concepts and principles
+- A [customer relationship management (CRM)](https://github.com/scottgriv/Palm-Tree) system built for a small electronics repair and sales business.
 - An [API-driven data extraction tool](https://github.com/Night-Owl-Labs/Data-Fisher) that outputs spreadsheet-ready insights for a telecommunications company
 
 ---
