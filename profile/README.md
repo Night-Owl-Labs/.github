@@ -36,31 +36,16 @@ We’d love to hear about it.
 💬 [Check out our blog](https://medium.com/@nightowllabs) <br />
 ✉️ [Get in touch](mailto:info@nightowllabs.io) <br />
 
+<hr>
+<h2 align="center"><b>Our Latest Project</b></h2>
+
 <p align="center">
     <a href="https://apps.apple.com/us/app/recipe-resizer-manage-recipes/id6450848695" target="_blank"><img align="center" src="https://raw.githubusercontent.com/Night-Owl-Labs/.github/main/docs/images/banners/recipe_resizer_ad-rounded.png" alt="Recipe Resizer" height="315" width="600" /></a>
 </p>
-
-<hr>
-<h2 align="center"><b>Projects</b></h2>
-<div align="center">
-    <a href="https://reciperesizer.com" target="_blank"><img src="https://raw.githubusercontent.com/Night-Owl-Labs/.github/main/docs/images/banners/recipe-resizer-banner_small-rounded.png" alt="Recipe Resizer Banner" width="400" height="128"/></a>
-    <a href="https://beeheard.com" target="_blank"><img src="https://raw.githubusercontent.com/Night-Owl-Labs/.github/main/docs/images/banners/bee-heard-banner_small-rounded.png" alt="Bee Heard Banner" width="400" height="128"/></a>
-    <a href="https://github.com/scottgriv/PRG-Personal-Repository-Guidelines" target="_blank"><img src="https://raw.githubusercontent.com/Night-Owl-Labs/.github/main/docs/images/banners/prg-banner_small-rounded.png" alt="PRG Banner" width="400" height="128"/></a>
-    <a href="https://github.com/scottgriv/Dark-Castle-Theme" target="_blank"><img src="https://raw.githubusercontent.com/Night-Owl-Labs/.github/main/docs/images/banners/dark-castle-banner_small-rounded.png"alt="Dark Castle Theme" width="400" height="128"/></a>
-    <a href="https://github.com/scottgriv/Post.e" target="_blank"><img src="https://raw.githubusercontent.com/Night-Owl-Labs/.github/main/docs/images/banners/post-e-banner_small-rounded.png" alt="Post.e Banner" width="400" height="128"/></a>
-    <a href="https://github.com/scottgriv/River-Charts" target="_blank"><img src="https://raw.githubusercontent.com/Night-Owl-Labs/.github/main/docs/images/banners/river-charts-banner_small-rounded.png" alt="River Charts Banner" width="400" height="128"/></a>
-    <a href="https://github.com/scottgriv/Palm-Tree" target="_blank"><img src="https://raw.githubusercontent.com/Night-Owl-Labs/.github/main/docs/images/banners/palm-tree-banner_small-rounded.png"alt="Palm Tree Banner" width="400" height="128"/></a>
-    <a href="https://github.com/scottgriv/Launch-Portals" target="_blank"><img src="https://raw.githubusercontent.com/Night-Owl-Labs/.github/main/docs/images/banners/launch-portals-banner_small-rounded.png"alt="Launch Portals Banner" width="400" height="128"/></a>
-</div>
 <hr>
 <h2 align="center"><b>Socials</b></h2>
 <p align="center">
-    <a href="https://www.linkedin.com/company/nightowllabs/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/Night-Owl-Labs/.github/main/docs/images/socials/linkedin.svg" alt="LinkedIn" height="40" width="40" /></a>&nbsp;&nbsp;
-    <a href="https://x.com/night_owl_labs" target="blank"><img align="center" src="https://raw.githubusercontent.com/Night-Owl-Labs/.github/main/docs/images/socials/x.png" alt="X" height="43" width="43" /></a>&nbsp;&nbsp;
-    <a href="https://instagram.com/Night.Owl.Labs" target="blank"><img align="center" src="https://raw.githubusercontent.com/Night-Owl-Labs/.github/main/docs/images/socials/instagram.svg" alt="Instagram" height="43" width="43" /></a>&nbsp;&nbsp;
-    <a href="https://medium.com/@nightowllabs" target="_blank"><img align="center" src="https://raw.githubusercontent.com/Night-Owl-Labs/.github/main/docs/images/socials/medium.svg" alt="Medium" height="40" width="40" /></a>&nbsp;&nbsp;
-    <a href="https://marketplace.visualstudio.com/publishers/night-owl-labs" target="blank"><img align="center" src="https://raw.githubusercontent.com/Night-Owl-Labs/.github/main/docs/images/socials/vscode.svg" alt="Visual Studio Marketplace" height="40" width="40" /></a>&nbsp;&nbsp;
-    <a href="mailto:info@nightowllabs.io" target="_blank"><img align="center" src="https://raw.githubusercontent.com/Night-Owl-Labs/.github/main/docs/images/socials/gmail.png" alt="Gmail" height="40" width="40" /></a>&nbsp;&nbsp;
+    <a href="https://linktr.ee/nightowllabs" target="_blank"><img align="center" src="https://raw.githubusercontent.com/Night-Owl-Labs/.github/main/docs/images/socials/linktree_button-rounded.png" alt="Linktree" width="25%" /></a>&nbsp;&nbsp;
 </p>
 
 <!-- End README -->
