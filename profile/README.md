@@ -45,7 +45,7 @@ We’d love to hear about it.
 <hr>
 <h2 align="center"><b>Socials</b></h2>
 <p align="center">
-    <a href="https://linktr.ee/nightowllabs" target="_blank"><img align="center" src="https://raw.githubusercontent.com/Night-Owl-Labs/.github/main/docs/images/socials/linktree_button-rounded.png" alt="Linktree" width="25%" /></a>&nbsp;&nbsp;
+    <a href="https://linktr.ee/nightowllabs" target="_blank"><img align="center" src="https://raw.githubusercontent.com/Night-Owl-Labs/.github/main/docs/images/socials/linktree_button-rounded.png" alt="Linktree" width="227" height="70" /></a>&nbsp;&nbsp;
 </p>
 
 <!-- End README -->
